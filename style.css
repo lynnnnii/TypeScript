@@ -1,0 +1,17 @@
+h2{
+  color:black;
+  text-align: center;
+  font-weight:700;
+  font-size: 30pt;
+
+}
+
+.container-box {
+  width: 400px;          /* 컨테이너 박스 너비 */
+  height: 250px;         /* 컨테이너 박스 높이 */
+  background-color: white; /* 배경색 흰색 */
+  border-radius: 15px;   /* 모서리 둥글게 */
+  display: flex;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
+}
+
